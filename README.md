@@ -114,7 +114,7 @@ This automation helps brands, marketers, and creators identify which content per
     │
     ├── requirements.txt
     └── README.md
-    ```
+```
 
 ---
 
